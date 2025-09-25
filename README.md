@@ -21,6 +21,12 @@ Este é meu **primeiro projeto oficial** em HTML puro, criado como um convite de
 
 ---
 
+## Acesse o convite online
+
+[Visualizar o convite no GitHub Pages](https://clasilbap.github.io/Boas-Vindas/)
+
+---
+
 ## Sobre o projeto
 
 - **Data:** 25 de setembro de 2025  
