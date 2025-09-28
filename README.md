@@ -23,7 +23,7 @@ Este é meu **primeiro projeto oficial** em HTML puro, criado como um convite de
 
 ## Acesse o convite online
 
-[Visualizar o convite no GitHub Pages]([https://clasilbap.github.io/Boas-Vindas/])
+[Visualizar o convite no GitHub Pages](https://clasilbap.github.io/Boas-Vindas/)
 
 ---
 
